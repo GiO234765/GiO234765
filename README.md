@@ -7,7 +7,7 @@
 [![Studexa](https://img.shields.io/badge/Studexa-Private%20Beta-7c3aed?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/GiO234765/studexa)
 [![Followers](https://img.shields.io/github/followers/GiO234765?style=for-the-badge&logo=github&color=181717)](https://github.com/GiO234765?tab=followers)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Studexa;Java+%2B+Spring+Boot;React+%2B+TypeScript" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Software Engineering;Building+Studexa;Java+%2B+Spring+Boot;React+%2B+TypeScript" alt="Typing introduction" />
 
 </div>
 
