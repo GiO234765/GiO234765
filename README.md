@@ -14,6 +14,7 @@
 ## 🎓 About Studexa
 
 **Studexa** is a gamified study platform for learners who want to build consistency and turn studying into a rewarding habit.
+Career Goal: Software Engineer at NVIDIA.
 
 > Available in **Khmer** and **English**
 
