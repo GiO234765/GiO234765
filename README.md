@@ -14,8 +14,8 @@
 ## 🎓 About Studexa
 
 **Studexa** is a gamified study platform for learners who want to build consistency and turn studying into a rewarding habit.<br>
-**Career-Goal**: Software Engineer at NVIDIA.
-
+**Career-Goal**: Software Engineer at NVIDIA. <br>
+**Education**: Currently pursuing a Bachelor's degree in CSE
 > Available in **Khmer** and **English**
 
 ### ✨ Features
